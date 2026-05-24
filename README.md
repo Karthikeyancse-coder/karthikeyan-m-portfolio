@@ -1,4 +1,4 @@
-# 🌐 Karthikeyan M — Personal Portfolio
+# 🌐 Karthikeyan M — Personal Portfolio.
 
 > A cinematic, dark-themed developer portfolio built with React, TypeScript & Vite — showcasing projects in AI, AR, FinTech, and Healthcare.
 
